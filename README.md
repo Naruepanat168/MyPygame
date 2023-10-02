@@ -32,11 +32,12 @@
 ![image](https://github.com/Naruepanat168/MyPygame/assets/104188069/63f8d660-998e-4324-9bb3-3f515f05e0a1)
 
 
-ผลรันเกม
+ผลรัน Intro game
 
 
 ![image](https://github.com/Naruepanat168/MyPygame/assets/104188069/d9e2842d-1bda-42b5-a052-4da687caeecb)
 
+ผลรันเกม
 
 ![Uploading image.png…]()
 
