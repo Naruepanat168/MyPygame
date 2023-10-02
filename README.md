@@ -3,16 +3,16 @@
 
 เปลี่ยนPath ที่อยู่ จากเดิมเป็น \ สำหรับ Windows 	เปลี่ยนเป็น /สำหรับ Mac
 
-![image](https://github.com/Naruepanat168/MyPygame/assets/104188069/d07a921c-17e9-4129-8ff7-7dcfb09402c7)
+![image](https://github.com/Naruepanat168/MyPygame/assets/104188069/0fabf1e3-b1b5-4c8d-9248-756cd7d6b2f9)
+
 
 เปลี่ยน img Background&Sounds
 
-![image](https://github.com/Naruepanat168/MyPygame/assets/104188069/9b954df1-5eed-4f76-a381-a4edaa0b4ea9)
+![image](https://github.com/Naruepanat168/MyPygame/assets/104188069/1fde811b-9dca-4982-88c8-97afad51e6ef)
 
 เปลี่ยน Object และลดขนาดภาพเหลือ 24px โดยใช้เว็บนี้ในการลดขนาด https://www.iloveimg.com/
 
 ![image](https://github.com/Naruepanat168/MyPygame/assets/104188069/0a9a2db6-5718-4c3d-8353-1e3e7648e1f4)
-
 
 
 ปรับขนาด Windowsของเกม ให้ใหญ่ขึ้น กว้างขึ้น
@@ -20,11 +20,9 @@
 ![image](https://github.com/Naruepanat168/MyPygame/assets/104188069/e3cc905f-5f71-4e74-b348-8012f6fe5805)
 
 
-
 เพิ่ม Object และกำหนดคะแนนและอัตราการดรอป object ออกมา โดยเพิ่ม treasure เข้ามา ละดรอปออกน้อยที่สุด
 
 ![image](https://github.com/Naruepanat168/MyPygame/assets/104188069/7edbd648-2c1c-458c-8bd7-f4b6389b81bf)
-
 
 
 เปลี่ยน Iconตัวเกม
