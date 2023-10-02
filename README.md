@@ -7,6 +7,7 @@
 
 เปลี่ยนPath ที่อยู่ จากเดิมเป็น \ สำหรับ Windows 	เปลี่ยนเป็น /สำหรับ Mac
 
+![image](https://github.com/Naruepanat168/MyPygame/assets/104188069/d07a921c-17e9-4129-8ff7-7dcfb09402c7)
 
 เปลี่ยน img Background&Sounds
 
