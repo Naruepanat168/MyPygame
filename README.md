@@ -3,6 +3,7 @@
 
 เปลี่ยนPath ที่อยู่ จากเดิมเป็น \ สำหรับ Windows 	เปลี่ยนเป็น /สำหรับ Mac
 
-![Uploading image.png…]()
 
 
+
+![Uploading Screenshot 2566-10-03 at 02.57.06.png…]()
