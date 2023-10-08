@@ -348,12 +348,5 @@ while running:
 
 
     #ถ้าได้แต้มครบ 100
-    if total_score >= 100:
-        game_over = True
-        win = True
-    
-    #ถ้าจบเกมให้ทำลายรถเข็น เพื่อป้องกันการชนซ้ำ
-    if game_over:
-        for c in group_cart:
-            c.kill()        
+         
     
